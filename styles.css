@@ -1,0 +1,15 @@
+p.pale {
+    width: 100px;
+    height: 50px;
+    padding: 20px;
+    border: 1px solid;
+    color: maroon;
+  }
+
+h1, strong{
+    color: blue;
+}
+
+div{
+    color: greenyellow;
+}
